@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rolitai.github.io/sitemap.html.gz
+Sitemap: https://rolitai.github.io/app/sitemap.html.gz
+Sitemap: https://rolitai.github.io/assets/sitemap.html.gz
+Sitemap: https://rolitai.github.io/css/sitemap.html.gz
+Sitemap: https://rolitai.github.io/includes/sitemap.html.gz
+Sitemap: https://rolitai.github.io/item/sitemap.html.gz
+Sitemap: https://rolitai.github.io/src/sitemap.html.gz
